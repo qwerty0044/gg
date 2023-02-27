@@ -1,0 +1,68 @@
+.q {
+	color:orange;
+	font-size:45px
+}
+em {
+	color:purple;
+}
+.w {
+	font-size:20px;
+	color:#9e09a0;
+	border:2px solid #9e09a0;
+}
+.message {	
+	border: 3px outset #7d7d7d;
+	padding-left: 30px;	
+	margin-bottom: 20px; 
+	padding- left: 10px;
+	background-color:#7d7d7d;
+	border-radius:30px;
+	box-shadow:5px 50px 60px black;
+	text-align: center;
+	width:80%;
+	height: 100px;
+	padding-top:20px;
+	transform:scale(0.8);
+	transition:3s all;
+}
+.message:hover {
+	color:orange;
+	background:#212121;
+	border:3px inset #212121;
+	border-radius:20px;
+	height: 100px;
+	box-shadow:5px 50px 60px orange;
+}
+body {
+	background-image:url(https://i.pinimg.com/originals/41/fe/5d/41fe5dbe30a570621741bb93163dcf7d.gif);
+}
+.a1:hover {
+	transform:rotate(25deg)scale(0.8);
+}
+.a2:hover {
+	transform:rotate(-25deg)scale(0.8);
+}
+.a3:hover {
+	transform:rotate(25deg)scale(0.8);
+}
+.a4:hover {
+	transform:rotate(-25deg)scale(0.8);
+}
+.a5:hover {
+	transform:rotate(25deg)scale(0.8);
+}
+.T {
+	font-family: cursive;
+	font-size:22px;
+}
+body
+{
+
+background-image:url('https://i.pinimg.com/originals/21/1d/58/211d58d33a92c0cd1c2437cf825a9bc5.gif');
+
+background-repeat:no-repeat;
+
+background-attachment:fixed;
+
+background-position:center; 
+}
